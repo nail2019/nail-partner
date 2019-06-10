@@ -1,0 +1,94 @@
+#main-loi-ich{
+    width: 70%;
+    /* height: 500px; */
+    /* border:1px solid #c4c4c4; */
+    margin:auto;
+            }
+            
+            #main-loi-ich .pu-litle{
+                font-family: Open Sans;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 25px;
+                color: #6645C5;
+                text-align: center !important;
+            }
+
+            .line-loi-ich{
+                width: 5px;
+                height: 150px;
+                background-color: #6645c5;
+                border-radius: 1px;
+                position: relative;
+                /* padding-left: 55px; */
+            }
+
+            .icon-circle{
+                position: absolute;
+                margin-left: -5px;
+                margin-top: 10px;
+                top: 15px;
+                color: #6645c5;
+            }
+
+            .m-top-88{
+                margin-top: 88px;
+            }
+
+            .height-tho-nail-250{
+                height: 200px;
+                width: 100%;
+            }
+           
+            .text-loi-ich{
+                text-align: center;
+                line-height: 130px;
+                font-family: Open Sans;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 30px;
+                color: #6645C5;
+            }
+
+            .margin-top-loi-ich-10{
+                margin-top: 5px;
+            }
+            
+            .text-card-right-1{
+                position: relative;
+                font-family: Open Sans !important;
+                font-style: normal !important;
+                font-weight: normal !important;
+                font-size: 20px !important;
+                line-height: normal !important;
+                color: #000000 !important;
+                text-align:left  !important;
+                display: inherit !important; /* float: right !important; */ 
+                justify-content: flex-end !important;
+                margin-left: 20px !important;
+            }
+
+            #main-loi-ich .card-left-1 .text-card-left-1{
+                font-family: Open Sans;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 20px;
+                line-height: normal;
+                color: #000000;
+                text-align: right;
+                display: flex; /* float: right; */ 
+                justify-content: flex-end;
+                
+            }
+
+            .height-khach-hang-200{
+                height: 200px;
+            }
+
+            .hover-loi-ich-1:hover .hover-zoom-1{
+                font-size: 40px;
+            }
+            .line-loi-ich-body{
+                padding-left: 55px !important;
+
+            }

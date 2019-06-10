@@ -1,0 +1,45 @@
+.box {
+    border-radius: 5px;
+    border: 1px solid #e7e7e7;
+}
+
+.nailer-box {
+    height: 200px;
+}
+
+.nailer-box-infor-left {
+    height: 700px;
+    background-color: #6645c5;
+}
+
+.nailer-box-infor-right {
+    height: 700px;
+    background-color: #fff;
+}
+
+.nailer-avatar {
+    background-image: url('https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-512.png');
+    background-size: cover;
+
+    width: 90px;
+    height: 90px;
+}
+
+.nailer-name {
+    text-align: center;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: normal;
+}
+
+.nailer-rate {
+    text-align: center;
+    color: #fff000;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+}

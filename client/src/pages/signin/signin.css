@@ -1,0 +1,64 @@
+.SignInComponent--Nailer{
+    background:#2995cc;
+    border-radius:3px;
+    font-family:'Open Sans',sans-serif;
+    color:white;
+    padding: 1.5rem 3rem;
+}
+
+.SignInComponent--Nailer .btnLogin{
+    background: #FF773C !important;
+    width: 50% !important;
+    font-family: 'Open Sans',sans-serif !important;
+    font-size:18px !important;
+    color: #fff !important;
+}
+.box-icon  {
+    border-radius: 5px;
+    padding:5px 10px;
+    text-align: center;
+}
+.box-icon .btn {
+    color: #000;
+    font-size: 20px;    
+    display: flex;
+    width: 100%;
+}
+.box-icon .btn svg {
+    font-size: 20px;
+    color: #fff;
+    margin-right: 10px;
+}
+.facebook {
+    background-color: #3B579D;
+    color: #fff;
+}
+.google {
+    background-color: #F4F4F4;
+}
+.zalo{
+    background:#018FE5;
+    color: #fff;
+
+}
+.box-icon.facebook .icFacebook {
+    width: 22px;
+    height: 25px;
+}
+.icZalo{
+    width: 35px;
+    height: 30px;
+    background: #fff;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+#signin-password{
+    margin-right: 5px;
+    width: 49%;
+}
+.SignInComponent--Nailer .text-center.m-0{
+    text-transform: capitalize;
+}
+img{
+  width:100%;
+}

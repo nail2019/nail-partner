@@ -1,0 +1,46 @@
+.App-header-m {
+    position: relative;
+	background-color: #6645c5;
+	height: 50px;
+	position: sticky;
+	top: 0;
+	z-index: 15;
+	display: none;
+}
+
+.nav-m-lish {
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 12px;
+}
+
+.hamburger-menu {
+    z-index: 50;
+    position: absolute;
+	width: 35px;
+	height: 35px;
+    background-image: url('../../assets/images/menu-m.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-primary {
+    color: transparent !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.Corp {
+    margin: auto;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 30px;
+}

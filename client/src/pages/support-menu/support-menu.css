@@ -1,0 +1,115 @@
+#support-menu{
+    font-family: 'Open Sans',sans-serif;
+    position: relative;
+}
+
+/* Welcome text */
+.slo
+{
+    width: 40%;
+    height: 28px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Search bar */
+.menu-form-input:focus 
+{
+    border: none;
+    box-shadow: none;
+    border: 1px solid#7d7d7d;
+    border-right: none;
+}
+.menu-form-input{
+    margin-top: 15px !important;
+    border: 1px solid #7d7d7d !important;
+    border-right: none !important;
+    box-shadow: none !important;
+}
+.menu-search-sp{
+    margin-top: 15px !important;
+    border: 1px solid #7d7d7d !important;
+    border-left: none !important;
+    box-shadow: none !important;
+    color: #000 !important;
+}
+.menu-search-sp:focus{
+    border-left: none;
+    box-shadow: none;
+
+}
+
+/* Menu */
+
+.support-menu{
+    border: 1px solid #7d7d7d;
+    width: 100%;
+    height: 100px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.support-menu img{
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+    margin-left: -15px;
+}
+.support-menu-title{
+    width: 125px;
+    height: 25px;
+    float: right;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    margin: 30px;
+    margin-top: 35px;
+    margin-left: -35px;
+    text-align: initial;
+}
+/* Questions */
+.questions{
+    position: absolute;
+
+}
+.questions ol {
+    margin-left: 30px;
+    text-align: initial;
+}
+.direct-quest{
+    width: 550px;
+    height: 30px;
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.direct-quest:hover{
+    cursor: pointer;
+}
+.answers{
+    color: #7d7d7d;
+    font-size:14px;
+}
+.collapse{
+    margin-bottom: 2px;
+}
+/* Support Contact */
+.menu-btn-slo
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Open Sans',sans-serif;
+}
+.menu-contact-btn
+{
+    width: 250px !important;
+    height: 60px !important;
+    margin-top:15px !important;
+    background-color: #ff773c !important;
+    border:none !important;
+    box-shadow: none !important;
+    color: white !important;
+    text-align: center !important; 
+    font-family: "Open Sans", sans-serif;
+}

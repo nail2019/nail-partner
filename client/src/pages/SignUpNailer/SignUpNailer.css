@@ -1,0 +1,67 @@
+.SignIn--Nailer
+{
+    right: 0;
+    position: absolute;
+    top: 40px;
+    right: 450px;
+}
+.SignIn--Nailer--form{
+    width:550px;
+    border:1px solid lightgray;
+    background:white;
+    margin-top:400px;
+    border-radius: 5px;
+    padding: 2rem;
+}
+.SignIn--Title{
+    text-align:center;
+    color:black;
+    font-size:18px;
+    font-family:Open Sans;
+    font-weight:bold;
+}
+.SignIn--Title::first-letter{
+    text-transform: capitalize;
+}
+.SignIn--btn{
+    /* width:720px; */
+    color:orange;
+    background:green;
+}
+.SignIn--Nailer .btnDangky{
+    margin-left: -10px;
+}
+.SignIn--Nailer .btnBack{
+    margin-left:140px;
+}
+.SignIn--Nailer .name::first-letter{
+    text-transform: capitalize;
+    margin-left:3px;
+}
+.SignIn--Nailer .inputfield{
+     display: inline;
+}
+.SignIn--Nailer .information::first-letter{
+    text-transform: capitalize;
+}
+.SignIn--Nailer .information{
+   font-size:18px;
+   font-family:Open-Sans;
+   margin-left:5px;
+}
+.SignIn--Nailer .name{
+     font-size:15px;
+     font-family:Open-Sans;
+     margin-left:5%;
+     padding:10px;
+     font-weight:600;
+     color:black;
+}
+.SignIn--Nailer .lblfirstname{
+    margin-left: 5%;
+    font-family:Open Sans;
+    font-weight:600;
+    font-size:15px;
+    color:black;
+    padding:10px;
+}

@@ -1,0 +1,7 @@
+.fade.modal.show .modal-dialog {
+    padding: 0;
+    min-width: 580px;
+}
+.ModalBody{
+    width: 100%;
+}

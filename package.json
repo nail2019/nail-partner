@@ -1,0 +1,21 @@
+{
+  "name": "NailSystem",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"cd server && npm start\" \"cd client && npm start\"",
+    "update-libs": "concurrently \"cd server && npm install\" \"cd client && npm install\"",
+    "start-server": "cd server && npm start",
+    "start-client": "cd client && npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^2.1.8",
+    "react-loading": "^2.0.3"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.0"
+  }
+}

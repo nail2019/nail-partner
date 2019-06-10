@@ -1,0 +1,74 @@
+.TitleNailerUpdate{
+    font-family: Open Sans !important;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 20px !important;
+    line-height: normal !important;
+    color: #000000 !important;
+    border: none !important;
+    text-align: center;
+}
+.ic_PlusSquare{
+    font-size: 175px ;
+    color: #BD34FE;
+    margin-left: 17%;
+    border: none !important;
+}
+.NailerUpdate{
+    background-color: #6645c5;
+    padding: 9px;
+    color: white;
+    font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+    font-size: 14px;
+    width: fit-content 100%;
+}
+.UpdateImageInput{
+    position: absolute;
+    z-index: 2;
+    opacity: 0;
+    height: 36px;
+    width: 36%;
+    margin-top: -7px;
+    margin-left: -20px;
+}
+.UpdateImage{
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 5px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: normal;
+    color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+.UpdateImageInput:hover{
+    cursor: pointer;
+}
+.UpdateImage:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.UpdateInformation{
+    margin-top: 9x;
+}
+.password{
+    height: 36px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+    margin-left: 0px !important;
+}
+.UpdateServicePrice{
+    margin-top: 14px;
+}

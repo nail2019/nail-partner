@@ -1,0 +1,79 @@
+.BangGiaDichVu {
+    position: relative;
+    width: 600px;
+    height: 350px;
+    background:white;
+    margin: auto;
+
+}
+.BangGiaDichVu .canh-giua {
+   
+    width: 200px;
+    margin: auto;  
+}
+.BangGiaDichVu .text-title {
+    
+    margin-left: 140px;;
+
+}
+
+
+.BangGiaDichVu .text-title1 {
+    float: left;
+    margin-left: 60px;
+    margin-right: 110px;
+}
+.BangGiaDichVu .text-title2{
+   margin-bottom: 10px;
+}
+.BangGiaDichVu .exampleForm.ControlSelect1{
+    
+    
+}
+.BangGiaDichVu .col-nhap-gia{
+    margin-left: -168px;
+     
+}
+.BangGiaDichVu .col-nhap-gia1{
+    margin-left: -100px;
+     
+}
+.BangGiaDichVu .gia {
+   margin-left: -20px;
+}.BangGiaDichVu .gia1 {
+    margin-left: -28px;
+ }
+.BangGiaDichVu .button{
+    
+}
+.BangGiaDichVu .button1{
+    margin-left: -30px;
+    
+}
+.BangGiaDichVu .button2{
+   
+
+
+}
+.BangGiaDichVu .button-dang-ky {
+    width: 200px;
+    background-color:rgba(0, 255, 85, 0.425);
+    
+}
+.BangGiaDichVu .button-dang-ky1 {
+   width: 200px;
+   margin-left: 150px;
+   
+}
+.BangGiaDichVu .mb-3 {
+
+}
+.BangGiaDichVu .Checkbox {
+   
+}
+.BangGiaDichVu .i-image{
+  
+}
+/* .ic_plus .ic_minus{
+    color: #BD34FE;
+} */

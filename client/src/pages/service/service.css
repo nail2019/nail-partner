@@ -1,0 +1,161 @@
+#main-service{
+			display: flex;
+    		margin-top: 18px;
+    		margin-bottom: 18px;
+    		width: 100%;
+    	}
+    	#square2{
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: normal;
+			line-height: normal;
+			font-size: 12px;
+			color: #FFFFFF;
+			width: fit-content 100%;
+			left: 460px;
+			top: 457px;
+			background: #6645C5;
+			border-radius: 15px;
+			text-align: center;
+			padding-top: 7px;
+			padding-bottom: 7px;
+			margin-bottom: 10px;
+			cursor: pointer;
+			height: fit-content;
+			padding-left: 5px;
+			padding-right: 5px;
+			margin-right: -30px;
+		}
+		#square2:hover {
+			background-color: #6b00b6;
+		}
+		#left-service{
+			width: 25%;
+			background: #FFFFFF;
+      		box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+      		border-radius: 5px;
+  			padding-left: 10px;
+  			padding-top: 10px;
+  			margin-right: 5%;
+  			padding-bottom: 21px;
+			float: left;
+			height: fit-content;
+		}
+		#left-service .MenuService {
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: normal;
+			line-height: 19px;
+			font-size: 12px;
+			color: #000000;
+			margin-top: 5px;
+		}
+		#right-service{
+			width: 70%;
+			background: #FFFFFF;
+			box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+			border-radius: 5px;
+  			padding-top: 9px;
+  			float: left;
+		}
+		#left-service .title{
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: bold;
+			line-height: normal;
+			font-size: 15px;
+			color: #6645C5;
+			margin-bottom: 6px;
+		}
+		#right-service .title1{
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: bold;
+			line-height: normal;
+			font-size: 22px;
+			color: #6645C5;
+			margin-bottom: 9px;
+			padding-left: 15px;
+		}
+		.box-service{
+			background: #FFFFFF;
+			border: 1px solid #000000;
+      		box-sizing: border-box;
+			padding-top: 10px;
+			margin-left: 15px;
+			margin-right: 15px;
+			margin-bottom: 30px;
+			border-radius: 5px;
+		}
+		#main-service #right-service .TitleService{
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: bold;
+			line-height: normal;
+			font-size: 15px;
+			color: #000000;
+			margin-bottom: 14px;
+			margin-top: 14px; 
+			text-align: center;
+		}
+		#right-service .row {
+			margin-top: 18x;
+			width: 100%;			
+		}
+		.AnhTronGoi {
+			background-image: url('../../assets/images/TronGoi.svg');
+			background-size: cover;
+			position: relative;
+			width: 100%;
+			background-repeat: no-repeat;
+			height: 190px;
+		}
+		.AnhChamSoc {
+			background-image: url('../../assets/images/ChamSoc.svg');
+			background-size: cover;
+			position: relative;
+			width: 100%;
+			background-repeat: no-repeat;
+			height: 190px;
+		}
+		.AnhDapBot {
+			background-image: url('../../assets/images/DapBot.svg');
+			background-size: cover;
+			position: relative;
+			width: 100%;
+			background-repeat: no-repeat;
+			height: 190px;
+		}
+		.AnhDapGel {
+			background-image: url('../../assets/images/DapGel.svg');
+			background-size: cover;
+			position: relative;
+			width: 100%;
+			background-repeat: no-repeat;
+			height: 190px;
+		}
+		.AnhVeTrangTri {
+			background-image: url('../../assets/images/VeTrangTri.svg');
+			background-size: cover;
+			position: relative;
+			width: 100%;
+			background-repeat: no-repeat;
+			height: 190px;
+		}
+		.AnhDinhDa {
+			background-image: url('../../assets/images/DinhDa.svg');
+			background-size: cover;
+			position: relative;
+			width: 100%;
+			background-repeat: no-repeat;
+			height: 190px;
+		}
+		.IconCheck{
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: normal;
+			line-height: 19px;
+			font-size: 12px;
+			color: #6645C5;
+			margin-top: 5px;
+		}

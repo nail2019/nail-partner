@@ -1,0 +1,22 @@
+.post-box {
+    background-color: #fff;
+    border-radius: 5px;
+    height: auto;
+    padding: 5%;
+}
+
+.post-img {
+    background-image: url('http://dephiendai.vn/hinhanh/cac-mau-nail-tong-mau-do-dep-5951deb5ac244.jpeg');
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.post-content {
+        font-family: Open Sans;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: normal;
+        color: #000;
+}

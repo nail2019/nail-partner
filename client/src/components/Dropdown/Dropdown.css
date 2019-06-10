@@ -1,0 +1,20 @@
+.Ava:focus{
+    box-shadow: none !important;
+}
+.ono{
+    text-align: center;
+
+}
+.ono img{
+    width:50px;
+    display: inline-block;
+}
+.ava1{
+    font-size:15px;
+    font-family:'Open Sans',sans-serif;
+    font-style:normal;
+    color:black;
+    font-weight: bold;
+    text-align:center;
+    margin-bottom: 10px;
+}

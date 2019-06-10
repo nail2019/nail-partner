@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+.uploadProduct {
+    font-size: 100%;
+}
+
+.uploadProduct .textSize1 {
+    font-size: 1.1rem;
+}
+
+.uploadProduct .pictureView {
+    text-align: center;
+    line-height: 18rem;
+    color: #f0f0f0;
+    height: 95%;
+    width: 100%;
+    background-color: #D17CFA;
+    border-radius: 0.4rem;
+}
+
+.uploadProduct .saveButton {
+    background-color: #8001FF !important;
+    width: 100%;
+    margin-top: 1.6rem;
+    margin-bottom: 2.2rem;
+    border: 0px !important;
+    color: #fff !important;
+}
+
+.uploadProduct .saveButton:hover {
+    background-color: #5b00b7 !important;
+}
+
+.callText {
+	text-align: center;
+}
+
+.footer .sendButton {
+	width: 100%;
+}
+
+.uploadProduct .custom-file .custom-file-label::after {
+    content: 'Chọn Ảnh';
+    background-color: #8001FF;
+    color: #fff;
+    cursor: pointer;
+}
+
+.uploadProduct .custom-file-input:lang(en) ~ .custom-file-label::after {
+    content: "Chọn Ảnh";
+    background-color: #8001FF;
+    color: #fff;
+    cursor: pointer;
+}
+
+.uploadProduct .custom-file-input:hover {
+    cursor: pointer;
+}

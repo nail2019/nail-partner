@@ -1,0 +1,113 @@
+.App-HeaderAfterSignIn {
+	position: sticky;
+	top: 0;
+	z-index: 99;
+}
+
+.App-HeaderAfterSignIn .headersignin .navbarsignin {
+	width: 94%;
+}
+
+
+.headersignin .navbarsignin ul {
+	font-family: Roboto Condensed;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 15px;
+	color: #ffffff;
+	position: relative;
+	float: right;
+}
+
+.headersignin .navbarsignin ul li {
+	float: left;
+	display: inline-block;
+	margin-right: 70px;
+}
+
+.headersignin{
+	position: relative;
+	width: 100%;
+	height: 97px;
+	left: 0px;
+	top: 0px;
+	background: linear-gradient(270deg, #7A00F4 29.5%, #BD34FE 99.17%);
+	padding-top: 15px;
+}
+
+.headersignin .navbarsignin2 ul:visited{
+	color: #FFFFFF;
+}
+
+.headersignin .navbarsignin2 ul {
+    width: 48%;
+	font-family: Roboto Condensed;
+	font-style: normal;
+	font-weight: regular;
+	line-height: normal;
+	font-size: 12px;
+	color: #ffffff;
+	float: right;
+    position: relative;
+}
+
+.headersignin .navbarsignin2 ul li {
+	float: left;
+	display: inline-block;
+	margin-right: 70px;
+}
+
+.whiteColor {
+	color: #FFFFFF;
+}
+
+.whiteColor:hover {
+	color: #f3f3f3;
+	text-decoration: none;
+}
+
+.blackColor {
+	color: #000;
+}
+
+.search {
+	width: 250px;
+	outline: none;
+	color: #FFF;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.ic_search{
+	color: #FFF;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #FFFFFF;
+	margin-bottom: -3px;
+	padding-bottom: 4px;
+	height: 16px;
+}
+
+.ic-search:hover{
+	cursor: pointer;
+}
+
+.headersignin a {
+    color: #fafafa !important;
+} 
+
+a:hover { 
+  color: #29b6f6 !important;
+  text-decoration: none !important;
+}
+.App-HeaderAfterSignIn .top:hover{
+	 color:#29b6f6;
+	 cursor: pointer;
+}
+
+.avatar-h{
+	width: 80px;
+	height: 80px;
+}

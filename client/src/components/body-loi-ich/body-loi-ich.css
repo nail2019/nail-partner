@@ -1,0 +1,66 @@
+.body-loi-ich{
+	width: 100%;
+    height: 300px;
+}
+.text-tieu-de{
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 15px;
+	color: #000000;
+	margin-bottom: 9px;
+	text-align: center;
+	width: 100%; 
+}
+#card-1{
+	width: 33% ;
+	height: fit-content;
+	border: 1px solid  #6645C5;
+	padding-left: 20px;
+	margin-right: 4%;
+	margin-left: 13%;
+	margin-top: 30px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	float: left;
+	border-radius: 15px;
+}
+#card-2{
+	width: 33% ;
+	height: fit-content;
+	border: 1px solid  #6645C5;
+	padding-left: 20px;
+	float: left;
+	margin-left: 4%;
+	margin-right: 13%;
+	margin-top: 97px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	border-radius: 15px;
+}
+.margin-left-10{
+	margin-left: 10px;
+}
+
+.float-left{
+	float: left;
+}
+.ContentLoiIch{
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 19px;
+	font-size: 12px;
+	color: #000000;
+	margin-left:10px;
+	float: left;
+}
+.IconCheck{
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 19px;
+	font-size: 12px;
+	color: #6645C5;
+}

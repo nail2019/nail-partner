@@ -1,0 +1,65 @@
+.banner{
+	height: 80vh;
+	background-image: url('../../assets/images/bg_img.svg');
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	width: 100%;
+	text-align: center;
+	margin: 0 auto !important ;
+	margin-bottom: 10px;
+}
+
+.banner .banner-opacity {
+	background: rgba(248, 194, 243, 0.4);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.banner__content{
+	width: 80%;
+}
+
+.banner__content p {
+	font-size: 2rem;
+}
+
+.banner__content .btn{
+	width: 12rem;
+	margin: 0 2rem;
+	outline: none;
+}
+
+.banner__content .btn:hover {
+	transform: translateY(-3px);
+	box-shadow: 0 1rem 2rem rgba(#000,0.2);
+}
+
+.banner__content .btn:active{
+	transform: translateY(-1px);
+	box-shadow: 0 .5rem 1rem rgba(#000,0.2)
+}
+
+p:first-letter{
+	text-transform:capitalize;
+}
+
+.banner__content {
+	position: absolute;
+	top: 70%;
+	bottom: 25%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.banner__content .btn-signup{
+	background: #FF773C;
+	color: #fff;
+
+}
+.banner__content .btn-login{
+	background-color: #119B7A;
+	color:#fff;
+
+}

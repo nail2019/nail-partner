@@ -1,0 +1,49 @@
+.background-main {
+    background-color: #6645c5;
+    width: 100%;
+    height: auto;
+    padding: 30px;
+}
+
+.download-mobile {
+    background-image: url('../../assets/images/app.png');
+    background-repeat: no-repeat;
+    border-right: 3px #fff solid;
+    height: 465px;
+}
+
+.download-chplay {
+    background-image: url('../../assets/images/chplay.png');
+    width: 100%;
+    height: 75px;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+}
+
+.download-appstore {
+    background-image: url('../../assets/images/appstore.png');
+    width: 100%;
+    height: 75px;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+}
+
+.download-qrcode {
+    background-image: url('../../assets/images/qrcode.png');
+    width: 100%;
+    height: 255px;
+    background-repeat: no-repeat;
+}
+
+.download-title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: normal;
+
+    color: #FFFFFF;
+    text-align: center !important;
+    width: 100%;
+    margin-bottom: 30px;
+}

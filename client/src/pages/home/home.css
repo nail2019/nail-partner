@@ -1,0 +1,10 @@
+@media only screen and (max-width: 600px) {
+    .App-header {
+        display: none;
+    }
+
+    .App-header-m {
+        display: block;
+    }
+
+}

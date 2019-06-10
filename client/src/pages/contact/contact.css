@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+.contact {
+    font-size: 100%;
+}
+
+.contact .text1 {
+    font-size: 1rem;
+}
+
+.contact .text2 {
+    font-size: 1.3rem;
+}
+
+.contact Form {
+    margin-top: 1rem;
+}
+
+.contact .submitButton {
+    width: 30% !important;
+    background-color: #8001FF !important;
+    border: 0px !important;
+    color: #fff !important;
+}
+
+.contact .submitButton:hover {
+    background-color: #5b00b7 !important;
+}
+
+.contact #content {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 181px;
+    max-height: 177px;
+    min-height: 177px;
+}
+
+.contact a {
+    color: #363636 !important;
+}
+  
+.contact a:hover {
+    color: #29b6f6 !important;
+    text-decoration: none !important;
+}

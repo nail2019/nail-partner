@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.dataSecurity {
+    font-size: 100%;
+}
+
+.dataSecurity .title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 95%;
+}
+
+.dataSecurity .tag {
+    width: 100%;
+    border: 1px solid #DBD9D9;
+    height: 3.6rem;
+    border-radius: 0.3rem;
+    margin-bottom: 0.7rem;
+    box-shadow: 0 0 10px #e9e9e9;
+    line-height:  3.6rem;
+    padding-left: 1rem;
+    overflow: hidden;
+    color: #363636;
+}
+
+.dataSecurity .tag:hover {
+    color: #fff !important;
+    font-weight: bold;
+    background-color: #9D19FE;
+    cursor: pointer;
+}
+
+.dataSecurity .contentBox {
+    height: 29.4rem;
+    border: 1px solid #DBD9D9;
+    box-shadow: 0 0 10px #e9e9e9;
+    border-radius: 0.3rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    overflow: auto;
+}
+
+.dataSecurity li {
+    margin-left: 1rem;
+}
+
+.dataSecurity a {
+    color: #363636 !important;
+}
+
+.dataSecurity a:hover {
+    color: #fff !important;
+}

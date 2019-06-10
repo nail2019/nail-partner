@@ -1,0 +1,40 @@
+.useapp {
+    width: 100%;
+}
+
+.useapp-1 {
+    background-image: url('../../assets/images/app.png');
+    margin: auto;
+    width: 230px;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.useapp-title-once {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000 !important;
+}
+
+.useapp-desc {
+    font-size: 20px;
+    color: #000 !important;
+}
+
+.useapp-title {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: normal;
+
+    color: #000;
+    text-align: center !important;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.carousel-control-prev, .carousel-control-next .carousel-control-prev, .carousel-control-next{
+    width: 40% !important;
+}

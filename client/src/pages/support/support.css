@@ -1,0 +1,79 @@
+/* Welcome text */
+.slo
+{
+    width: 40%;
+    height: 28px;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Search bar */
+.form-input:focus 
+{
+    border: none;
+    box-shadow: none;
+    border: 1px solid#7d7d7d;
+    border-right: none;
+}
+.form-input{
+    margin-top: 15px !important;
+    border: 1px solid #7d7d7d !important;
+    border-right: none !important;
+    box-shadow: none !important;
+}
+.search-sp{
+    margin-top: 15px !important;
+    border: 1px solid #7d7d7d !important;
+    border-left: none !important;
+    box-shadow: none !important;
+    color: #000 !important;
+}
+.search-sp:focus{
+    border-left: none;
+    box-shadow: none;
+
+}
+
+/* Menu */
+.card
+{
+    width: 250px !important;
+    height: 180px !important;
+    margin-right: 30px !important;
+    border-color: #7d7d7d !important;
+}
+.card-title{
+    font-size: 17px !important;
+    font-family: 'Open Sans', sans-serif !important;
+    color: black !important;
+}
+.card-img-top
+{
+    width: 80px;
+    height: 80px;
+    margin-top: 30px;
+}
+.card:hover{
+    cursor:pointer;
+}
+/* Support Contact */
+.btn-slo
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Open Sans',sans-serif;
+}
+.contact-btn
+{
+    width: 250px !important;
+    height: 60px !important;
+    margin-top:15px !important;
+    background-color: #ff773c !important;
+    border:none !important;
+    box-shadow: none !important;
+    color: white !important;
+    text-align: center !important; 
+    font-family: "Open Sans", sans-serif;
+}
